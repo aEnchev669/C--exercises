@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. SUm digits\02. SUm digits\bin\Debug\_02.SUm_digits.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. SUm digits\02. SUm digits\bin\Debug\_02.SUm_digits.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. SUm digits\02. SUm digits\obj\Debug\02. SUm digits.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. SUm digits\02. SUm digits\obj\Debug\02. SUm digits.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. SUm digits\02. SUm digits\obj\Debug\_02.SUm_digits.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. SUm digits\02. SUm digits\obj\Debug\_02.SUm_digits.pdb
