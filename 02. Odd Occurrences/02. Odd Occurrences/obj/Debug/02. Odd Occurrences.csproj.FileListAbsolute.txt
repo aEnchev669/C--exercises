@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. Odd Occurrences\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. Odd Occurrences\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. Odd Occurrences\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. Odd Occurrences\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. Odd Occurrences\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\02. Odd Occurrences\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb
