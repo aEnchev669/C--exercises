@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\1. Sum Matrix Elements\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\1. Sum Matrix Elements\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.pdb
