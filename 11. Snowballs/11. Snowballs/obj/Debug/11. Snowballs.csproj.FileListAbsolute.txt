@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\11. Snowballs\11. Snowballs\bin\Debug\_11.Snowballs.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\11. Snowballs\11. Snowballs\bin\Debug\_11.Snowballs.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\11. Snowballs\11. Snowballs\obj\Debug\11. Snowballs.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\11. Snowballs\11. Snowballs\obj\Debug\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\11. Snowballs\11. Snowballs\obj\Debug\_11.Snowballs.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\11. Snowballs\11. Snowballs\obj\Debug\_11.Snowballs.pdb
