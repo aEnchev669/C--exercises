@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Elevator\3. Elevator\bin\Debug\_3.Elevator.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Elevator\3. Elevator\bin\Debug\_3.Elevator.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Elevator\3. Elevator\obj\Debug\3. Elevator.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Elevator\3. Elevator\obj\Debug\3. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Elevator\3. Elevator\obj\Debug\_3.Elevator.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Elevator\3. Elevator\obj\Debug\_3.Elevator.pdb
