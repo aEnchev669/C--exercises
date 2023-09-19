@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Word Synonyms\3. Word Synonyms\bin\Debug\_3.Word_Synonyms.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Word Synonyms\3. Word Synonyms\bin\Debug\_3.Word_Synonyms.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Word Synonyms\3. Word Synonyms\obj\Debug\3. Word Synonyms.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Word Synonyms\3. Word Synonyms\obj\Debug\3. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Word Synonyms\3. Word Synonyms\obj\Debug\_3.Word_Synonyms.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\3. Word Synonyms\3. Word Synonyms\obj\Debug\_3.Word_Synonyms.pdb
