@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Sum of Chars\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Sum of Chars\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Sum of Chars\4. Sum of Chars\obj\Debug\4. Sum of Chars.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Sum of Chars\4. Sum of Chars\obj\Debug\4. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Sum of Chars\4. Sum of Chars\obj\Debug\_4.Sum_of_Chars.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Sum of Chars\4. Sum of Chars\obj\Debug\_4.Sum_of_Chars.pdb
