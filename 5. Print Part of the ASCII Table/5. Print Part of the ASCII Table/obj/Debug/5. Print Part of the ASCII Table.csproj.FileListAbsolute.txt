@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\5. Print Part of the ASCII Table\5. Print Part of the ASCII Table\bin\Debug\_5.Print_Part_of_the_ASCII_Table.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\5. Print Part of the ASCII Table\5. Print Part of the ASCII Table\bin\Debug\_5.Print_Part_of_the_ASCII_Table.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\5. Print Part of the ASCII Table\5. Print Part of the ASCII Table\obj\Debug\5. Print Part of the ASCII Table.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\5. Print Part of the ASCII Table\5. Print Part of the ASCII Table\obj\Debug\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\5. Print Part of the ASCII Table\5. Print Part of the ASCII Table\obj\Debug\_5.Print_Part_of_the_ASCII_Table.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\5. Print Part of the ASCII Table\5. Print Part of the ASCII Table\obj\Debug\_5.Print_Part_of_the_ASCII_Table.pdb

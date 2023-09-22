@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Word Filter\4. Word Filter\bin\Debug\_4.Word_Filter.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Word Filter\4. Word Filter\bin\Debug\_4.Word_Filter.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Word Filter\4. Word Filter\obj\Debug\4. Word Filter.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Word Filter\4. Word Filter\obj\Debug\4. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Word Filter\4. Word Filter\obj\Debug\_4.Word_Filter.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\4. Word Filter\4. Word Filter\obj\Debug\_4.Word_Filter.pdb

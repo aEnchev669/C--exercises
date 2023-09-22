@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\7. Water Overflow\7. Water Overflow\bin\Debug\_7.Water_Overflow.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\7. Water Overflow\7. Water Overflow\bin\Debug\_7.Water_Overflow.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\7. Water Overflow\7. Water Overflow\obj\Debug\7. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\7. Water Overflow\7. Water Overflow\obj\Debug\7. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\7. Water Overflow\7. Water Overflow\obj\Debug\_7.Water_Overflow.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\7. Water Overflow\7. Water Overflow\obj\Debug\_7.Water_Overflow.pdb

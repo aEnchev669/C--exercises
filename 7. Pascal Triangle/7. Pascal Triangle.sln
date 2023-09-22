@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{CEB10177-6FE3-4BFF-A8B4-BC74A9484A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB10177-6FE3-4BFF-A8B4-BC74A9484A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB10177-6FE3-4BFF-A8B4-BC74A9484A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB10177-6FE3-4BFF-A8B4-BC74A9484A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB10177-6FE3-4BFF-A8B4-BC74A9484A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B72A77E-B610-4233-ACB9-2CC673D0CD12}
+	EndGlobalSection
+EndGlobal

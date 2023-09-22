@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\second\second\bin\Debug\second.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\second\second\bin\Debug\second.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\second\second\obj\Debug\second.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\second\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\second\second\obj\Debug\second.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\second\second\obj\Debug\second.pdb

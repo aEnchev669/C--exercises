@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\bin\Debug\netcoreapp3.1\First exercise.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\bin\Debug\netcoreapp3.1\First exercise.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\bin\Debug\netcoreapp3.1\First exercise.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\bin\Debug\netcoreapp3.1\First exercise.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\bin\Debug\netcoreapp3.1\First exercise.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\bin\Debug\netcoreapp3.1\First exercise.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\First exercise\obj\Debug\netcoreapp3.1\First exercise.genruntimeconfig.cache

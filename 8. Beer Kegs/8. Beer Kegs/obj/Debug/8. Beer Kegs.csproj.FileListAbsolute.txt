@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\8. Beer Kegs\8. Beer Kegs\bin\Debug\_8.Beer_Kegs.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\8. Beer Kegs\8. Beer Kegs\bin\Debug\_8.Beer_Kegs.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\8. Beer Kegs\8. Beer Kegs\obj\Debug\8. Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\8. Beer Kegs\8. Beer Kegs\obj\Debug\8. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\8. Beer Kegs\8. Beer Kegs\obj\Debug\_8.Beer_Kegs.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\8. Beer Kegs\8. Beer Kegs\obj\Debug\_8.Beer_Kegs.pdb

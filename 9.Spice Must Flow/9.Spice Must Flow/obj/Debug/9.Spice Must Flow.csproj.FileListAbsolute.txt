@@ -1,0 +1,6 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\9.Spice Must Flow\9.Spice Must Flow\bin\Debug\9.Spice Must Flow.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\9.Spice Must Flow\9.Spice Must Flow\bin\Debug\9.Spice Must Flow.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\9.Spice Must Flow\9.Spice Must Flow\obj\Debug\9.Spice Must Flow.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\9.Spice Must Flow\9.Spice Must Flow\obj\Debug\9.Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\9.Spice Must Flow\9.Spice Must Flow\obj\Debug\9.Spice Must Flow.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\9.Spice Must Flow\9.Spice Must Flow\obj\Debug\9.Spice Must Flow.pdb
