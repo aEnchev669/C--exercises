@@ -1,0 +1,16 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\refint\2. Vowels Count.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\2. Vowels Count\2. Vowels Count\obj\Debug\net5.0\ref\2. Vowels Count.dll
