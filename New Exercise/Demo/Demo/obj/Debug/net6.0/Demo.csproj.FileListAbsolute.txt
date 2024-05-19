@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
