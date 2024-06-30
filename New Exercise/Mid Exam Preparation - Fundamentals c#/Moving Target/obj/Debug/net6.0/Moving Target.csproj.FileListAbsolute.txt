@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\bin\Debug\net6.0\Moving Target.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\bin\Debug\net6.0\Moving Target.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\bin\Debug\net6.0\Moving Target.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\bin\Debug\net6.0\Moving Target.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\bin\Debug\net6.0\Moving Target.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\refint\Moving Target.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\Moving Target.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\Moving Target\obj\Debug\net6.0\ref\Moving Target.dll
