@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\bin\Debug\net6.0\The Lift.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\bin\Debug\net6.0\The Lift.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\bin\Debug\net6.0\The Lift.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\bin\Debug\net6.0\The Lift.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\bin\Debug\net6.0\The Lift.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\refint\The Lift.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\The Lift.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Mid Exam Preparation - Fundamentals c#\The Lift\obj\Debug\net6.0\ref\The Lift.dll

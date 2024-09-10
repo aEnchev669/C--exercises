@@ -5,15 +5,15 @@
 		static void Main(string[] args)
 		{
 			int[] num = {5};
-		
-			Add(num, 15);
 
-			Console.WriteLine(num[0]);
+			
+
+			Console.WriteLine(Add(num[0], 15));
 		}
 
-		public static void Add(int[] currNum, int value)
+		public static int Add(int currNum, int value)
 		{
-			currNum[0] += value;
+			return currNum += value;
 		}
 	}
 } 
