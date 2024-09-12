@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\bin\Debug\net6.0\EnglishNameOfTheLastDigit.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\bin\Debug\net6.0\EnglishNameOfTheLastDigit.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\bin\Debug\net6.0\EnglishNameOfTheLastDigit.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\bin\Debug\net6.0\EnglishNameOfTheLastDigit.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\bin\Debug\net6.0\EnglishNameOfTheLastDigit.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\refint\EnglishNameOfTheLastDigit.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\EnglishNameOfTheLastDigit.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit\obj\Debug\net6.0\ref\EnglishNameOfTheLastDigit.dll

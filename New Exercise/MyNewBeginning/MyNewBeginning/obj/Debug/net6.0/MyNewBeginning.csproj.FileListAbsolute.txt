@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\bin\Debug\net6.0\MyNewBeginning.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\bin\Debug\net6.0\MyNewBeginning.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\bin\Debug\net6.0\MyNewBeginning.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\bin\Debug\net6.0\MyNewBeginning.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\bin\Debug\net6.0\MyNewBeginning.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\refint\MyNewBeginning.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\MyNewBeginning.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\MyNewBeginning\MyNewBeginning\obj\Debug\net6.0\ref\MyNewBeginning.dll

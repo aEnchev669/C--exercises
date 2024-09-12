@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\bin\Debug\net6.0\Student Information.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\bin\Debug\net6.0\Student Information.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\bin\Debug\net6.0\Student Information.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\bin\Debug\net6.0\Student Information.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\bin\Debug\net6.0\Student Information.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\refint\Student Information.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\Student Information.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Student Information\Student Information\obj\Debug\net6.0\ref\Student Information.dll

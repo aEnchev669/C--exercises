@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\bin\Debug\net6.0\Gaming Store.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\bin\Debug\net6.0\Gaming Store.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\bin\Debug\net6.0\Gaming Store.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\bin\Debug\net6.0\Gaming Store.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\bin\Debug\net6.0\Gaming Store.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\refint\Gaming Store.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\Gaming Store.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Gaming Store\Gaming Store\obj\Debug\net6.0\ref\Gaming Store.dll
