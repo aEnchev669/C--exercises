@@ -45,7 +45,7 @@
 
 
 				if (budget < price)
-				{
+				{ 
 					Console.WriteLine("Too Expensive");
 				}
 				else
