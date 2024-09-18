@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\bin\Debug\net6.0\Heroes of Code and Logic VII.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\refint\Heroes of Code and Logic VII.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Heroes of Code and Logic VII\Heroes of Code and Logic VII\obj\Debug\net6.0\ref\Heroes of Code and Logic VII.dll

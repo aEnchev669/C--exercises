@@ -4,19 +4,9 @@
 	{
 		static void Main(string[] args)
 		{
-			string key = "asdfghjkl";
+			int amountRecoverd = 70 - (150 + 70 - 200);
 
-
-
-			string letters = key.Substring(2, 5);
-            Console.WriteLine(letters);
-			
-			key = key.Remove(2, 5);
-			Console.WriteLine(key);
-
-			key = key.Insert(2, letters.ToUpper());
-			Console.WriteLine(key);
-
-		}
+            Console.WriteLine(amountRecoverd);
+        }
 	}
 }
