@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\bin\Debug\net6.0\HackerRankExercises.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\bin\Debug\net6.0\HackerRankExercises.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\bin\Debug\net6.0\HackerRankExercises.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\bin\Debug\net6.0\HackerRankExercises.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\bin\Debug\net6.0\HackerRankExercises.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\refint\HackerRankExercises.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\HackerRankExercises.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\HackerRankExercises\HackerRankExercises\obj\Debug\net6.0\ref\HackerRankExercises.dll
