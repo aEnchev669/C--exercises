@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\bin\Debug\net6.0\Key Revolver.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\bin\Debug\net6.0\Key Revolver.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\bin\Debug\net6.0\Key Revolver.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\bin\Debug\net6.0\Key Revolver.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\bin\Debug\net6.0\Key Revolver.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\refint\Key Revolver.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\Key Revolver.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Key Revolver\Key Revolver\obj\Debug\net6.0\ref\Key Revolver.dll

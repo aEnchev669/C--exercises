@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\bin\Debug\net6.0\Exercise Stacks and Queues.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\bin\Debug\net6.0\Exercise Stacks and Queues.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\bin\Debug\net6.0\Exercise Stacks and Queues.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\bin\Debug\net6.0\Exercise Stacks and Queues.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\bin\Debug\net6.0\Exercise Stacks and Queues.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\refint\Exercise Stacks and Queues.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\Exercise Stacks and Queues.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Exercise Stacks and Queues\Exercise Stacks and Queues\obj\Debug\net6.0\ref\Exercise Stacks and Queues.dll

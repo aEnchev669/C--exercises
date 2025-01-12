@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\bin\Debug\net6.0\Balanced Parentheses2.exe
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\bin\Debug\net6.0\Balanced Parentheses2.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\bin\Debug\net6.0\Balanced Parentheses2.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\bin\Debug\net6.0\Balanced Parentheses2.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\bin\Debug\net6.0\Balanced Parentheses2.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\refint\Balanced Parentheses2.dll
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\Balanced Parentheses2.genruntimeconfig.cache
+C:\Users\aench\OneDrive\Документи\GitHub\C--exercises\New Exercise\Balanced Parentheses2\Balanced Parentheses2\obj\Debug\net6.0\ref\Balanced Parentheses2.dll
